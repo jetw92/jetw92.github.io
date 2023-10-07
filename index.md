@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![](C:\Users\YGQ\Documents\GitHub\jetw92.github.io\images\wz1.jpg)
+<img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/images/wz1.jpg" alt="" width="321">
 
 Here is **Zhuo Wang**.
 
