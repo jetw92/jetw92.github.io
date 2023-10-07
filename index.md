@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/mmexport1686826578110.jpg" alt="" class="floatpic" width="686" height="480">
+![](C:\Users\YGQ\Documents\GitHub\jetw92.github.io\images\wz1.jpg)
 
 Here is **Zhuo Wang**.
 
@@ -19,8 +19,6 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
-  
-  
 
 <br>
 
@@ -39,6 +37,4 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**The scores of TOFEL test for the first time was 87
-  
-  
+- **Sep 2023：** The scores of **TOFEL（IBT）** test for the first time was 87
