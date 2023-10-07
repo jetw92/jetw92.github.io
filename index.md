@@ -14,7 +14,7 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Academic Background
 
-**<font color='blue'>[Highlight]</font> I am looking for PhD to start in 2023 or 2024 Fall. Contact me if you have any leads!**
+**<font color='navy blue'>[Highlight]</font> I am looking for PhD to start in 2023 or 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
@@ -29,7 +29,7 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 - Medcinal Chemistry
 - Fluorescent Probes
-- Applied Machine Learnin
+
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
