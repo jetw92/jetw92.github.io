@@ -3,8 +3,9 @@ layout: page
 ---
 
 # About Me
+<img src="https://jetw92.github.io/wz1.jpg" class="floatpic" width="360" height="480">
 
-<img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/images/wz1.jpg" alt="">
+<br>
 
 Here is **Zhuo Wang**.
 
@@ -16,10 +17,12 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 ## Academic Background
 
-- **Yantai University**  <img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/images/YTU.jpg" alt="" data-align="right" width="98">   
+- **Yantai University**     
   
   Master of  Pharmacy, GPA:  87
+
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
+
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
 
 <br>
