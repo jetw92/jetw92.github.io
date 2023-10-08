@@ -49,10 +49,10 @@ Bachelor of Engineering in Pharmaceutical Engineering, GPA: 75/100
 
 ## Research Interests
 
-- Medcinal Chemistry
+- Medicinal Chemistry
 - Fluorescent Probes
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research experience involves Medicinal Chemistry and Fluorescent Probes, which focuses on medicinal problems. So, my interests are in the **design, and synthesis small molecules** and their applications in **Medicine**.  I wish to devote my talent to fight diseases, which could save more people from suffering.
 
 <br>
 
