@@ -23,10 +23,14 @@ Lastest Update: 8th Oct 2023
 
 ---
 
-## Undergraduate Thesis
+## Degree Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
+- **Master of Pharmacy**
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+Design, Synthesis and in vitro Anti-tumor Activity of 4 *H* -isoxazolo[3',4':4,5]pyrano[3,2-*b* ]quinoline and Derivatives
+
+- **Master of Science in Biology**
+ 
+Screening and growth-promoting characteristics of a multi-heavy metal-tolerant plant growth-promoting bacterium<br>
   
   <br>
