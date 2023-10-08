@@ -16,7 +16,9 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 ## Academic Background
 
-- **Sep 2020 - June 2023:** Yantai University (BEng)
+- **Yantai University**  <img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/images/YTU.jpg" alt="" data-align="right" width="98">   
+  
+  Master of  Pharmacy, GPA:  87
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
 
