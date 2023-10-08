@@ -4,19 +4,19 @@ layout: page
 
 # About Me
 
-<img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/images/wz1.jpg" alt="" width="321">
+<img title="" src="file:///C:/Users/YGQ/Documents/GitHub/jetw92.github.io/images/wz1.jpg" alt="">
 
 Here is **Zhuo Wang**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+In this year, I got my master's degree in pharmacy. My degree thesis was about **organic synthesis methodology** and **medicinal chemistry**.I am really interested in research that intersects biology and organic chemistry because organic chemistry is a well-developed and useful tool to solve many life's problems. Especially, developing small molecules to treat diseases, which is still the main focus of therapeutic drug development because of its strong practicability, accommodation, acceptability, and economic value. After my first postgraduate study, I found that I really enjoy this area. It seems to design and produce powerful weapons to protect humankind. Thus, I studied for the master's degree in pharmacy. 
+
+Currently, **<font color='navyblue'> I am looking for PhD position in medicinal chemistry or related area to start in 2023 or 2024 Fall. Contact me if you have any leads!</font>**
 
 <br>
 
 ## Academic Background
 
-**<font color='Navyblue'>[Highlight]</font> I am looking for PhD to start in 2023 or 2024 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
+- **Sep 2020 - June 2023:** Yantai University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
 
@@ -37,4 +37,4 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：** The scores of **TOFEL（IBT）** test for the first time was 87
+- **Sep 2023：** The scores of **TOFEL(IBT)** test for the first time was 87
