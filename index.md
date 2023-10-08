@@ -9,9 +9,9 @@ layout: page
 
 Here is **Zhuo Wang**.
 
-In this year, I got my master's degree in pharmacy. My degree thesis was about **organic synthesis methodology** and **medicinal chemistry**.I am really interested in research that intersects biology and organic chemistry because organic chemistry is a well-developed and useful tool to solve many life's problems. Especially, developing small molecules to treat diseases, which is still the main focus of therapeutic drug development because of its strong practicability, accommodation, acceptability, and economic value. After my first postgraduate study, I found that I really enjoy this area. It seems to design and produce powerful weapons to protect humankind. Thus, I studied for the master's degree in pharmacy. 
+In this year, I got my master's degree in pharmacy. My degree thesis was about **organic synthesis methodology** and **medicinal chemistry**.I am really interested in research that intersects biology and organic chemistry because organic chemistry is a well-developed and useful tool to solve many life-scientific questions. Especially, developing small molecules to treat diseases is an attractive area, which is still the main focus of therapeutic drug development because of its strong practicability, accommodation, acceptability, and economic value. After my first postgraduate study, I found that I really enjoy this area. It seems to design and produce powerful weapons to protect humankind. Thus, I studied for a master's degree in pharmacy. 
 
-Currently, **<font color='navyblue'> I am looking for PhD position in medicinal chemistry or related area to start in 2023 or 2024 Fall. Contact me if you have any leads!</font>**
+Currently, **<font color='navyblue'> I am looking for PhD position in medicinal chemistry or a related area to start in 2023 or 2024 Fall. Contact me if you have any leads!</font>**
 
 <br>
 
@@ -19,13 +19,17 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 ## Academic Background
 
-- **Yantai University**   <img src="https://jetw92.github.io/images/YTU.jpg" class="floatpic" width="65" height="66" />  
+- Sept. 2020 - Jun. 2023()**Yantai University**   <img src="https://jetw92.github.io/images/YTU.jpg" class="floatpic" width="50%" height="50%">  
   
-  Master of  Pharmacy, GPA:  87/100
+Master of  Pharmacy, GPA:87/100
 
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
+- Sept. 2016 - Jun. 2019  **Southwest University of Science and Technology** <img src="https://jetw92.github.io/images/swust.png" class="floatpic" width="50%" height="50%">  
 
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
+Master of Science in Biology, GPA: 83/100
+
+- Sept. 2011 - Jun. 2015  **Southwest University of Science and Technology** <img src="https://jetw92.github.io/images/swust.png" class="floatpic" width="50%" height="50%">  
+
+Bachelor of Engineering in Pharmaceutical Engineering, GPA: 75/100
 
 <br>
 
