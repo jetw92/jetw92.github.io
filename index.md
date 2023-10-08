@@ -19,15 +19,21 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 ## Academic Background
 
-- Sept. 2020 - Jun. 2023: **Yantai University**   <img src="https://jetw92.github.io/images/YTU.jpg" class="floatpic" width="15%" />  
+- Sept. 2020 - Jun. 2023 
+
+  <img src="https://jetw92.github.io/images/YTU.jpg"  width="15%" />  **Yantai University**   
   
 Master of  Pharmacy, GPA:87/100
 
-- Sept. 2016 - Jun. 2019: **Southwest University of Science and Technology** <img src="https://jetw92.github.io/images/swust.png" width="10%" />  
+- Sept. 2016 - Jun. 2019
+
+  **Southwest University of Science and Technology** <img src="https://jetw92.github.io/images/swust.png" width="15%" />  
 
 Master of Science in Biology, GPA: 83/100
 
-- Sept. 2011 - Jun. 2015: **Southwest University of Science and Technology** <img src="https://jetw92.github.io/images/swust.png" width="10%" />  
+- Sept. 2011 - Jun. 2015 
+ 
+  **Southwest University of Science and Technology** <img src="https://jetw92.github.io/images/swust.png" width="15%" />  
 
 Bachelor of Engineering in Pharmaceutical Engineering, GPA: 75/100
 
