@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me
-<img src="https://jetw92.github.io/wz1(1).png" class="floatpic" width="360" height="480">
+<img src="https://jetw92.github.io/images/wz1(1).png" class="floatpic" width="360" height="480">
 
 <br>
 
@@ -17,7 +17,7 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 ## Academic Background
 
-- **Yantai University**   <img src="https://jetw92.github.io/YTU.jpg" class="floatpic">  
+- **Yantai University**   <img src="https://jetw92.github.io/images/YTU.jpg" class="floatpic">  
   
   Master of  Pharmacy, GPA:  87/100
 
