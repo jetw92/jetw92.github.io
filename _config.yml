@@ -24,8 +24,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+  - title: CV
+    url: /file/CV-Zhuo Wang.pdf
   - title: Publications
     url: /publications/
   - title: Awards
@@ -72,4 +72,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Hanlin Cai.
+# Latest update in 2023/10/08 by Zhuo Wang.
