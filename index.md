@@ -15,9 +15,11 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 <br>
 
+---
+
 ## Academic Background
 
-- **Yantai University**   <img src="https://jetw92.github.io/images/YTU.jpg" class="floatpic">  
+- **Yantai University**   <img src="https://jetw92.github.io/images/YTU.jpg" class="floatpic" width="65" height="66">  
   
   Master of  Pharmacy, GPA:  87/100
 
