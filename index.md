@@ -19,7 +19,7 @@ Currently, **<font color='navyblue'> I am looking for PhD position in medicinal 
 
 - **Yantai University**     
   
-  Master of  Pharmacy, GPA:  87
+  Master of  Pharmacy, GPA:  87/100
 
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
 
