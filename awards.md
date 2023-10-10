@@ -16,8 +16,8 @@ Lastest Update: 9th Oct 2023
 
 ## Competitions
 
-- 2023：Second Prize in the 9th Shandong Province College Student Science and Technology Innovation Competition
-- 2022：Third Prize in the 8th Shandong Province College Student Science and Technology Innovation Competition
+- 2023：Second Prize in the 9th Shandong Province College Student Science and Technology Innovation Competition (￥12000)
+- 2022：Third Prize in the 8th Shandong Province College Student Science and Technology Innovation Competition (￥10000)
 <br>
 
 ## Honors
