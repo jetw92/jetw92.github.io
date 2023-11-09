@@ -3,8 +3,8 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
-
-# Hobbies **<font color='red'> building </font>**
+ **<font color='red'> （Building） </font>**
+# Hobbies
 
 ## Citywalk & Traveling
 
